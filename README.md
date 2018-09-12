@@ -1,21 +1,5 @@
-# fy-signature-generator
+# Foryard email signature generator
+This is a email signature generator for the new Foryard brand identity. Open the url provided below, fill in the fields and your signature is ready to be copied to your email client.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+## Project location
+[Click here to navigate to the generator](https://gerwinov.github.io/fy-signature-generator/)
