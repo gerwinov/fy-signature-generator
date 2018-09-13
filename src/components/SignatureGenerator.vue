@@ -17,11 +17,6 @@
     </div>
 
     <br><br>
-
-    <div style="font-family:Arial, Calibri, Helvetica, sans-serif; text-decoration: none; font-size: 9pt; color:#9EAFC4;">
-      <br>
-      <p><span><a style="text-decoration: none; color: #9EAFC4;" href="https://foryard.nl/">Foryard.nl</a>  ●  <a style="text-decoration: none; color: #9EAFC4;" href="tel:0031880040600">+31 (0)88 004 0600</a>  ●  <a style="text-decoration: none; color: #9EAFC4;" href="https://www.google.nl/maps/place/Kuipersstraat+35,+1074+EE+Amsterdam/@52.3541686,4.9029117,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6098f8c959307:0xdaab052fb0fe66e7!8m2!3d52.3541686!4d4.9051004">Kuipersstraat 35, Amsterdam (NIEUW!)</a></span></p>
-    </div>
   </div>
 </template>
 
